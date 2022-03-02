@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Convolution Layer
+
 int main() {
 	//set value
 	int x = 256;
