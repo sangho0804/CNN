@@ -4,7 +4,7 @@
 
 
 /// <summary>
-/// im2col ±¸Çö
+/// im2col implement
 /// </summary>
 /// <returns></returns>
 
