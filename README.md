@@ -1,11 +1,11 @@
 ### CNN
-for deep learning study
+for deep learning study.
 
 ### This repo
 this repo made for study deep learning and handle cnn.
 
 ### Use language
-I used to <strong>C</strong> language
+I used to <strong>C</strong> language.
 
 ### List
 - Convolutional Layer
