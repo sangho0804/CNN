@@ -4,7 +4,7 @@ for deep learning study
 ### this repo
 this repo made for study deep learning and handle cnn.
 
-###Use language
+**###Use language**
 
 I use to <strong>C</strong> language
 
