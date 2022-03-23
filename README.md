@@ -9,7 +9,6 @@ I used to <strong>C</strong> language
 
 ### List
 - Convolutional Layer
-<br>
 - Convolution Lowering
 
 ### Bolog
