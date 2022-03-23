@@ -8,9 +8,9 @@ this repo made for study deep learning and handle cnn.
 I used to <strong>C</strong> language
 
 ### List
-<br>
+
 :: Convolutional Layer
-<br>
+
 :: Convolution Lowering
 
 ### Bolog wiki
