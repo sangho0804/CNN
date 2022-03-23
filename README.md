@@ -5,7 +5,7 @@ for deep learning study
 this repo made for study deep learning and handle cnn.
 
 ### list
-use C
+<strong>use C</strong>
 <br>
 :: Convolutional Layer
 
