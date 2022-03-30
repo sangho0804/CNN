@@ -1,12 +1,16 @@
 ### CNN
-for deep learning study
+for deep learning study.
 
-### this repo
+### This repo
 this repo made for study deep learning and handle cnn.
 
-### list
-use C
-<br>
-:: Convolutional Layer
-<br>
-:: Convolution Lowering
+### language
+I used to <strong>C</strong> language.
+
+### List
+- Convolutional Layer
+- Convolution Lowering
+
+### Bolog
+#### The implementation process was written through a my blog.
+https://strangecat.tistory.com/50 - Convolutional Layer(1)
