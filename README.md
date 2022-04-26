@@ -13,6 +13,7 @@ I used to <strong>C</strong> language.
 - Convolution Lowering
 - GEMM
 - GEMM with cuda
+  <pre>
   - <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> <br>
   use cpu  : 0.104083 sec      / Time measured only for gemm function<br> 
   use cuda : 0.888224 millisec / Time measured for using cuda<br>
@@ -21,6 +22,7 @@ I used to <strong>C</strong> language.
   host to device&nbsp;                       : 0.000823168 sec<br> 
   device to host                       : 0.000583392 sec <br>
   computation + Data Transfer Overhead : 0.002294784 sec - about <strong>45 times</strong> faster than cpu
+  </pre>
 
 ### Blog
 #### The implementation process was written through a my blog.
