@@ -1,5 +1,6 @@
 ### CNN
 for deep learning study.
+CNU eslab in intern.
 
 ### This repo
 this repo made for study deep learning and handle cnn.
@@ -11,6 +12,7 @@ I used to <strong>C</strong> language.
 - Convolutional Layer
 - Convolution Lowering
 - GEMM
+- GEMM with cuda
 
 ### Blog
 #### The implementation process was written through a my blog.
