@@ -12,20 +12,22 @@ I used to <strong>C</strong> language.
 - Convolutional Layer
 - Convolution Lowering
 - GEMM
-- GEMM with cuda
+- GEMM with cuda <br>
   <pre>
-  <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> <br>
+  <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> 
   
-  use cpu  : 0.104083 sec      / Time measured only for gemm function <br> 
-  use cuda : 0.888224 millisec / Time measured for using cuda <br>
+  Use cpu  : 0.104083 sec      / Time measured only for gemm function 
+  Use cuda : 0.888224 millisec / Time measured for using cuda 
   
-  About <strong>117x</strong> performance improvement using cuda<br>
+  About <strong>117x</strong> performance improvement using cuda
   
-  <strong>transmission time</strong> <br>
+  <strong>send time</strong>
   
-  host to device                       : 0.000823168 sec<br> 
-  device to host                       : 0.000583392 sec <br>
-  computation + Data Transfer Overhead : 0.002294784 sec - about <strong>45 times</strong> faster than cpu
+  Host to Device                       : 0.000823168 sec
+  Device to Host                       : 0.000583392 sec 
+  Computation + Data Transfer Overhead : 0.002294784 sec
+  
+  Include send time, about <strong>45x</strong> performance improvement using cuda
   </pre>
 
 ### Blog
