@@ -41,7 +41,7 @@ extern "C" void gemmCuda(int transA, int transB,
 		float *C, int ldc)
 {	// for check time
 	// overhead	   : move data
-	//				 host to device and device to host
+	// 		     host to device and device to host
 	// computation : metmul
 	// send		 -> host to device
 	// send_host -> device to host
