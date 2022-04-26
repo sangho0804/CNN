@@ -17,10 +17,9 @@ I used to <strong>C</strong> language.
   use cpu : 0.104083 sec - Time measured only for gemm function -<br> 
   use cuda : 0.888224 millisec ( 0.000888224 sec) -Time measured for using cuda -<br>
   Confirm that cuda is about <strong>117 times</strong> faster than cpu <br><br>
-  
-  <transmission time> <br>
-  host to device : 0.000823168 sec <br> 
-  device to host : 0.000583392 sec <br><br> 
+  <transmission time>
+  host to device : 0.000823168 sec 
+  device to host : 0.000583392 sec 
   computation + Data Transfer Overhead : 0.002294784 sec - about 45 times faster than cpu
 
 ### Blog
