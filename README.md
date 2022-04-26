@@ -18,7 +18,7 @@ I used to <strong>C</strong> language.
   use cuda : 0.888224 millisec / Time measured for using cuda<br>
   Confirm that cuda is about <strong>117 times</strong> faster than cpu <br>
   <strong>transmission time</strong> <br>
-  host to device                       : 0.000823168 sec<br> 
+  host to device&nbsp;                       : 0.000823168 sec<br> 
   device to host                       : 0.000583392 sec <br>
   computation + Data Transfer Overhead : 0.002294784 sec - about <strong>45 times</strong> faster than cpu
 
