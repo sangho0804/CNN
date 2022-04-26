@@ -1,5 +1,5 @@
 ### CNN
-for deep learning study.
+for deep learning study. <br>
 CNU eslab in intern.
 
 ### This repo
