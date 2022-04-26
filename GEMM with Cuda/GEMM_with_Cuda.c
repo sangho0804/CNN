@@ -14,6 +14,8 @@
 #define KER 3
 #define PAD 1
 
+//This .c file is allmost same "GEMM"
+
 //for use Cuda 
 extern void gemmCuda(int transA, int transB, 
           int M, int N, int K, 
