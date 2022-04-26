@@ -14,9 +14,9 @@ I used to <strong>C</strong> language.
 - GEMM
 - GEMM with cuda
   <pre>
-  - <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> <br>
-  use cpu  : 0.104083 sec      / Time measured only for gemm function<br> 
-  use cuda : 0.888224 millisec / Time measured for using cuda<br>
+  <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> 
+  use cpu  : 0.104083 sec      / Time measured only for gemm function <br> 
+  use cuda : 0.888224 millisec / Time measured for using cuda <br>
   Confirm that cuda is about <strong>117 times</strong> faster than cpu <br>
   <strong>transmission time</strong> <br>
   host to device&nbsp;                       : 0.000823168 sec<br> 
