@@ -167,8 +167,7 @@ int main(int argc, char **argv) {
 
     im2col(input, input_i2c,HEI,WID,I_C,KER);
 	
-   
-	int LDA = I_C*KER*KER;
+    int LDA = I_C*KER*KER;
     int LDB = O_C;
     int LDC = O_C;
 
