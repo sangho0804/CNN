@@ -13,14 +13,7 @@ I used to <strong>C</strong> language.
 - Convolution Lowering
 - GEMM
 - GEMM with cuda
-  - 목표하는 성능에 도달하기 위해 선택한 가속 옵션 : GPU  NVIDIA GTX 1080를 이용한 CUDA 가속
-
-현재 성능 : 0.104083 sec ( gemm 함수 연산 만을 측정한 시간 )
-달성한 성능 : 0.888224 millisec / 0.000888224 sec ( cuda를 이용한 연산 만을 측정한 시간) - 약 117배
-
-전송 시간 - host to device : 0.000823168 sec
-                  device to host : 0.000583392 sec
-computation + Data Transfer Overhead : 0.002294784 sec - 약 45배
+  - 목표하는 성능에 도달하기 위해 선택한 가속 옵션 : GPU  NVIDIA GTX 1080를 이용한 CUDA 가속 <br> 현재 성능 : 0.104083 sec ( gemm 함수 연산 만을 측정한 시간 ) < br> 달성한 성능 : 0.888224 millisec / 0.000888224 sec ( cuda를 이용한 연산 만을 측정한 시간) - 약 117배 < br> 전송 시간 - host to device : 0.000823168 sec <br> device to host : 0.000583392 sec < br> computation + Data Transfer Overhead : 0.002294784 sec - 약 45배
 
 ### Blog
 #### The implementation process was written through a my blog.
