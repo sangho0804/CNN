@@ -32,5 +32,6 @@ I used to <strong>C</strong> language.
 
 ### Blog
 #### The implementation process was written through a my blog.
-- https://strangecat.tistory.com/50 - Convolutional Layer(1)
-- https://strangecat.tistory.com/51 - Convolutional Layer(2)
+- Convolutional Layer
+  - https://strangecat.tistory.com/50 (1)
+  - https://strangecat.tistory.com/51 (2)
