@@ -9,9 +9,9 @@ this repo made for study deep learning and handle cnn.
 I used to <strong>C</strong> language.
 
 ### List
-- Convolutional Layer
-- Convolution Lowering ( im2col )
-- GEMM
+- Convolutional Layer<br>
+- Convolution Lowering ( im2col )<br>
+- GEMM<br>
 - GEMM with cuda <br>
   <pre>
   <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> 
@@ -28,7 +28,7 @@ I used to <strong>C</strong> language.
   Computation + Data Transfer Overhead : 0.002294784 sec
   
   Include send time, about <strong>45x</strong> performance improvement using cuda
-  </pre>
+  </pre><br>
 - Lesnet18
 
 ### Blog
