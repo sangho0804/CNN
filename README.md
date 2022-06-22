@@ -35,3 +35,5 @@ I used to <strong>C</strong> language.
 - Convolutional Layer
   - https://strangecat.tistory.com/50 (1)
   - https://strangecat.tistory.com/51 (2)
+- Convolution Lowering ( im2col ) 
+  - https://strangecat.tistory.com/53
