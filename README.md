@@ -6,7 +6,7 @@ CNU eslab in intern.
 this repo made for study deep learning and handle cnn.
 
 ### language
-used to <strong>C</strong> language.
+used <strong>C</strong> language.
 
 ### List
 - Convolutional Layer
