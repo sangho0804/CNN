@@ -12,7 +12,7 @@ I used to <strong>C</strong> language.
 - Convolutional Layer<br>
 - Convolution Lowering ( im2col )<br>
 - GEMM<br>
-- GEMM with cuda <br>
+- GEMM with cuda <br></br>
   <pre>
   <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> 
   
