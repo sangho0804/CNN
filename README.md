@@ -10,7 +10,7 @@ I used to <strong>C</strong> language.
 
 ### List
 - Convolutional Layer
-- Convolution Lowering
+- Convolution Lowering (im2col)
 - GEMM
 - GEMM with cuda <br>
   <pre>
