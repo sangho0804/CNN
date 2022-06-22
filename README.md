@@ -9,10 +9,11 @@ this repo made for study deep learning and handle cnn.
 I used to <strong>C</strong> language.
 
 ### List
-- Convolutional Layer<br>
-- Convolution Lowering ( im2col )<br>
-- GEMM<br>
-- GEMM with cuda <br></br>
+- Convolutional Layer
+- Convolution Lowering ( im2col )
+
+- GEMM
+- GEMM with cuda 
   <pre>
   <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> 
   
