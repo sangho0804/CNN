@@ -11,7 +11,6 @@ I used to <strong>C</strong> language.
 ### List
 - Convolutional Layer
 - Convolution Lowering ( im2col )
-
 - GEMM
 - GEMM with cuda 
   <pre>
@@ -29,7 +28,7 @@ I used to <strong>C</strong> language.
   Computation + Data Transfer Overhead : 0.002294784 sec
   
   Include send time, about <strong>45x</strong> performance improvement using cuda
-  </pre><br>
+  </pre>
 - Lesnet18
 
 ### Blog
