@@ -39,3 +39,5 @@ used <strong>C</strong> language.
   - https://strangecat.tistory.com/51 (2)
 - Convolution Lowering ( im2col ) 
   - https://strangecat.tistory.com/53
+- GEMM
+  - https://strangecat.tistory.com/56
