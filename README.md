@@ -6,13 +6,14 @@ CNU eslab in intern.
 this repo made for study deep learning and handle cnn.
 
 ### language
-I used to <strong>C</strong> language.
+used <strong>C</strong> language.
 
 ### List
 - Convolutional Layer
 - Convolution Lowering ( im2col )
+
 - GEMM
-- GEMM with cuda <br>
+- GEMM with cuda 
   <pre>
   <strong>CUDA acceleration with GPU NVIDIA GTX 1080 </strong> 
   
@@ -29,6 +30,7 @@ I used to <strong>C</strong> language.
   
   Include send time, about <strong>45x</strong> performance improvement using cuda
   </pre>
+- Lesnet18
 
 ### Blog
 #### The implementation process was written through a my blog.
@@ -37,3 +39,5 @@ I used to <strong>C</strong> language.
   - https://strangecat.tistory.com/51 (2)
 - Convolution Lowering ( im2col ) 
   - https://strangecat.tistory.com/53
+- GEMM
+  - https://strangecat.tistory.com/56
